@@ -260,3 +260,8 @@ h1 {
     transform: translateY(0);
   }
 }
+
+.error {
+  text-align: center;
+  color: red;
+}
